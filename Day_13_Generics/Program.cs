@@ -11,6 +11,8 @@ namespace Day_13_Generics
             Console.WriteLine(output);
             double doubleoutput = MaximumNumberCheck.MaximumFloatNumber(11.7, 26.47, 70.56);
             Console.WriteLine(doubleoutput);
+            string strigoutput = MaximumNumberCheck.MaximumStringNumber("apple", "mango", "grapes");
+            Console.WriteLine(strigoutput);
         }
     }
 }

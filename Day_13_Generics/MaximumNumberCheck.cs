@@ -65,5 +65,8 @@ namespace Day_13_Generics
 
             throw new Exception("firstNumber,secondNumber and thirdNumber are same");
         }
+
+
+
     }
 }
